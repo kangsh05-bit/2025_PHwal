@@ -119,7 +119,7 @@ markdown
 편집
 ![이미지 설명](이미지URL)
 👉 출력 예:
-![이미지 예시]()
+![이미지 예시](https://github.com/kangsh05-bit/2025_PHwal/blob/main/IMG_3312.png)
 
 7️⃣ 인용문 (Blockquotes)
 > 사용
